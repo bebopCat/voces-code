@@ -1,0 +1,31 @@
+@font-face{
+    font-family: "openSansMedium";
+    src: url("/assets/fonts/OpenSans-Medium.ttf");
+}
+@font-face{
+    font-family: "openSansBold";
+    src: url("/assets/fonts/OpenSans-Bold.ttf");
+}
+@font-face{
+    font-family: "CormorantGaramond-Medium";
+    src: url("/assets/fonts/CormorantGaramond-Medium.ttf");
+}
+@font-face{
+    font-family: "LouisGeorgeCafe-Medium";
+    src: url("/assets/fonts/LouisGeorgeCafe-Medium.ttf");
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
