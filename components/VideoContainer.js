@@ -58,21 +58,21 @@ export class VideoContainer extends LitElement {
         <div class="load-block">
             <img src="../assets/images/loader-puff.svg">
         </div>
-        <p>Su vóz:</p>
-        <iframe
-            loading="lazy" 
-            width="100%" height="315" 
-            src="${this.mover ? this.videoSrc : null}" 
-            title="YouTube video player" 
-            frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        ></iframe>
         <p>En estudio:</p>
         <iframe
             @load=${this.iframeLoaded}
             loading="lazy" 
             width="100%" height="315" 
             src="${this.mover ? this.videobSrc : null}" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        ></iframe>
+        <p>Su vóz:</p>
+        <iframe
+            loading="lazy" 
+            width="100%" height="315" 
+            src="${this.mover ? this.videoSrc : null}" 
             title="YouTube video player" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
