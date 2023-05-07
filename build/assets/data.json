@@ -1,0 +1,236 @@
+{
+    "cantantes": [
+        {
+            "id": 0,
+            "nombre": "Karen O",
+            "rango": "Soprano",
+            "genero": "Indie-rock",
+            "imagen": "karen-o.jpg",
+            "banda": "Yeah Yeah Yeahs",
+            "biografia": "<p><b>Karen Lee Orzolek</b> (Corea del Sur, 22 de noviembre de 1978), más conocida como Karen O, es la vocalista y líder del grupo de indie / garage punk Yeah Yeah Yeahs.<br>Su padre es polaco y su madre coreana. Se mudó a Estados Unidos, donde creció en Englewood (Nueva Jersey). Asistió a la Universidad Oberlin, pero se transfirió a la Universidad de Nueva York, donde estudió en la Tisch School of the Arts. Actualmente vive en Los Ángeles.</p>",
+            "video": "https://www.youtube.com/embed/arlbbwRnTto",
+            "videoB": "https://www.youtube.com/embed/pmGNo8RL5kM"
+        },
+        {
+            "id": 1,
+            "nombre": "Jessica Lois Ware",
+            "rango": "Rango desconocido",
+            "genero": "Dance-Pop/R&B",
+            "imagen": "jessie-ware.jpg",
+            "banda": "Solista",
+            "biografia": "<p>Jessica Lois Ware (Londres; 15 de octubre de 1984) es una cantante y compositora británica. Su álbum debut Devotion (2012) alcanzó el puesto número cinco en las listas británicas y produjo el sencillo «Wildest Moments». Su siguiente grabación Tough Love (2014) alcanzó el número nueve en el Reino Unido. Jessie ha colaborado con Nicki Minaj, Octavian, Joker y SBTRKT, en concierto y en sus grabaciones. <br>Jessie en su álbum 'Devotion' tiene mezclas de pop con r&b, algo de hip-hop y dance, en 'Tough Love' es algo más fresco, soul y pop, en 'Glasshouse' hay soul y r&b, con tintes pop muy de los 10's, su último proyecto 'What's Your Pleasure?' hizo un cambio muy grande, cambiando al disco y al edm inspirado en los 70's, 80's y 90's.</p>",
+            "video": "https://www.youtube.com/embed/yhu0wpCoJ54",
+            "videoB": "https://www.youtube.com/embed/rdCVGY-CrWs"
+        },
+        {
+            "id": 2,
+            "nombre": "Alexandra Savior",
+            "rango": "Rango desconocido",
+            "genero": "Indie-rock-pop",
+            "imagen": "alexandra-savior.jpg",
+            "banda": "Solista",
+            "biografia": "<p>Alexandra Savior McDermott (nacida el 14 de junio de 1995), conocida profesionalmente como Alexandra Savior, es una cantautora estadounidense, originaria de Portland, Oregon.<br><br>Su álbum debut Belladonna of Sadness se lanzó el 7 de abril de 2017 por Columbia Records. Contó con la participación de James Ford y Alex Turner como productores, mientras que Turner es el único coescritor junto a Savior. El primer sencillo del álbum y debut de Savior, 'Shades' se estrenó el 17 de junio de 2016.<br>Su segundo álbum, The Archer, se publicó el 10 de enero de 2020 por 30th Century Records.</p>",
+            "video": "https://www.youtube.com/embed/SswnomaOvj0",
+            "videoB": "https://www.youtube.com/embed/O0N0yDcba7s"
+        },
+        {
+            "id": 3,
+            "nombre": "Kala Rose",
+            "rango": "Rango desconocido",
+            "imagen": "kala-rose.jpg",
+            "genero": "Blues-rock",
+            "banda": "Saving Scape",
+            "biografia": "<p>A los 10 años comenzó a estudiar guitarra con Aaron O'Keefe, de la O'Keefe Music Foundation (OMF), Cincinnati, OH, y más tarde con Josh Cole. Desde 2016, ha estudiado con el entrenador vocal Brett Manning, quien es conocido por haber trabajado con Taylor Swift, Hayley Williams, Keith Urban, Leona Lewis, Luke Bryan y Miley Cyrus, por nombrar algunos. A través de sus estudios con OMF, Kala ha podido grabar voz y guitarra en numerosas producciones de OMF, sobre todo una versión de '46&2' de Tool, que ha alcanzado más de 16 millones de visitas.<br><br>En 2014, Kala y algunos compañeros de OMF formaron la banda Saving Escape. Comenzando con covers. Después de unos años, creció su deseo de ser identificados como una banda original. Escribir su propia música se convirtió en una pasión eterna, inspirándose en algunas de las bandas de rock más destacadas de la historia. Su sonido es una mezcla de riffs de blues, bajo y batería estruendosos y voces penetrantes. En 2017, la banda comenzó a grabar su primer EP con el productor Joe Viers, Sonic Lounge Studios, Columubus, OH. Desde 2016, SE se ha mantenido como un equipo favorito de los Cincinnati Reds, tocando en varios eventos que incluyen Kids Opening Day 2016/2017, así como Reds Fest 2016/2017. Abrieron para Zach Myers (Shinedown) y Palaye Royale.</p>",
+            "video": "https://www.youtube.com/embed/7N6FD7BOvq8",
+            "videoB": "https://www.youtube.com/embed/ctt87B6hU1M"
+        },
+        {
+            "id": 4,
+            "nombre": "Sarah Brightman",
+            "rango": "Soprano ligera",
+            "genero": "Opera-pop",
+            "imagen": "sarah-brightman.jpg",
+            "banda": "Solista",
+            "biografia": "<p>Sarah Brightman (Hertfordshire, Inglaterra, 14 de agosto de 1960) es una cantante, actriz, bailarina y directora de orquesta inglesa que interpreta música del género denominado crossover clásico así como Ópera y teatro musical. Se caracteriza por poseer un timbre agudo de soprano ligera. Ha interpretado un gran número de arias de ópera de compositores famosos, las cuales se incluyen en sus álbumes. Ha cantado en inglés, español, francés, catalán, latín, alemán, italiano, japonés, hindi, mandarín, ruso y occitano.</p><br><p>Ha recibido 180 discos de Oro y Platino en 38 países y es la única artista en el mundo que ha ocupado el puesto #1 en el Billboard Dance y el Billboard Classical Chart en simultáneo.</p><br><p>En 1981 debutó en el musical Cats y contrajo matrimonio con el compositor Andrew Lloyd Webber de quien se divorció en 1990. Protagonizó musicales en Broadway y en el West End, incluyendo El fantasma de la ópera, en el cual interpretó el papel de Christine Daaé. El álbum del musical ha vendido más de 40 millones de copias en todo el mundo, convirtiéndose en la banda sonora teatral más vendida de todos los tiempos.</p><br><p>Al retirarse del teatro, Brightman continuó su carrera musical junto con el exproductor del grupo Enigma, Frank Peterson, esta vez como intérprete del género Classical Crossover. A Brightman se le atribuye la creación de este estilo musical y se mantiene como una de las vocalistas más destacadas del mundo, con ventas que exceden los 30 millones de discos y 2 millones de DVD, estableciéndose como la soprano más exitosa de la historia.</p><br><p>Time to Say Goodbye, el dueto de 1996 de Brightman junto con el tenor italiano Andrea Bocelli, llegó al número uno de las listas musicales de toda Europa, y se convirtió en la canción con mayores ventas hasta la actualidad en Alemania, en donde ha vendido más de 3 millones de copias. La canción vendió 12 millones de copias en el resto de mundo, definiéndose como uno de los sencillos musicales más vendidos de todos los tiempos.</p><br><p>Aparte de la música, Brightman empezó una carrera en las artes visuales, haciendo su debut en la película Repo! The Genetic Opera (2008), una película de rock ópera-musical dirigida por Darren Lynn Bousman, en donde interpretó a Blind Mag, y First Night en donde dio vida a Celia, de Stephen Evans que se estrenó en marzo de 2011 en el Festival Cinematográfico de Glasgow. Formó su propia compañía de producción fílmica Instinct Films con la cual está produciendo su primera cinta.</p><br><p>Brightman fue nombrada Artista de la Paz por la Unesco para el periodo 2012-2014.</p>",
+            "video": "https://www.youtube.com/embed/yJ7QQyCIvHo",
+            "videoB": "https://www.youtube.com/embed/Ug-RPUO6P6g"
+        },
+        {
+            "id": 5,
+            "nombre": "Tessa Murray",
+            "rango": "Rango desconocido",
+            "genero": "Dream-pop",
+            "imagen": "tessa-murray.jpg",
+            "banda": "Still Corners",
+            "biografia": "<p>Creció a una hora de Londres en un pueblo llamado Tunbridge Wells. Un día se subió a un tren que pensó que iba a parar en la estación de London Bridge, pero no se detuvo allí, así que terminó en el andén de un lugar llamado Kidbrooke, que está en el sureste de Londres. Vio a alguien un poco molesto y le dije: 'Entonces, ¿también te subiste al tren equivocado?' Y ese era Greg. Iba de camino a la práctica del coro, y cuando Greg se enteró, pensó en ella como una posible cantante.<br><br>Still Corners se formó poco después de que Hughes, un expatriado estadounidense, conociera a Murray por casualidad en una parada de tren de Londres. En 2011, firmaron con Sub Pop, que lanzó su debut de larga duración, Creatures of an Hour, ese año; el álbum hizo comparaciones con Broadcast, Stereolab y la escena Paisley Underground. En el momento de su segundo disco, Strange Pleasures de 2013, Still Corners se habían reducido al dúo de Hughes y Murray y habían abandonado las influencias de los 60 en favor de un sonido más elegante e inspirado en los 80.</p>",
+            "video": "https://www.youtube.com/embed/gQMH2UImioU",
+            "videoB": "https://www.youtube.com/embed/LpbrvJzHITU"
+        },
+        {
+            "id": 6,
+            "nombre": "Janis Joplin",
+            "rango": "Mezzosoprano",
+            "genero": "Blues-rock",
+            "imagen": "janis-joplin.jpg",
+            "banda": "Solista",
+            "biografia": "<p>Janis Lyn Joplin (Port Arthur, Texas; 19 de enero de 1943-Los Ángeles, California; 3 de octubre de 1970) fue una cantante estadounidense de rock y blues, siendo un ícono hippie y de la contracultura en la década de los 60.<br><br>Considerada por la crítica especializada una de las mejores y más influyentes artistas de todos los tiempos y la primera mujer estrella del rock and roll. Sus discos se encuentran entre los más vendidos dentro de la industria musical.<br><br>Falleció a la edad de veintisiete años, solo un par de semanas después que otro gran músico (y amigo) estadounidense, Jimi Hendrix, quien también falleció a los 27 años.</p>",
+            "video": "https://www.youtube.com/embed/lmNiMhBnJIU",
+            "videoB": "https://www.youtube.com/embed/A24JZkgvNv4"
+        },
+        {
+            "id": 7,
+            "nombre": "Joss Stone",
+            "rango": "Mezzosoprano",
+            "imagen": "joss-stone.jpg",
+            "genero": "Soul/R&B/Blues",
+            "banda": "Solista",
+            "biografia": "<p>Joscelyn Eve Stoker1 (11 de abril de 1987), más conocida por su nombre artístico Joss Stone, es una destacada cantante y compositora inglesa de soul, R&B y blues, famosa por su expresiva y emotiva voz de mezzo-soprano.<br><br>Saltó a la fama después de la edición de su disco debut multi-platino y nominado al Premio Mercury, The Soul Sessions, de 2003, grabado mientras contaba con tan solo 16 años, el cual consiste en versiones de canciones de algunas de sus más importantes influencias musicales. Mind Body & Soul fue su segundo trabajo, lanzado en septiembre de 2004, que la presenta ahora también como compositora e incluye su mayor éxito en los charts ingleses hasta la fecha, 'You Had Me'.</p>",
+            "video": "https://www.youtube.com/embed/0PxDz72JV0k",
+            "videoB": "https://www.youtube.com/embed/T8b2u10BnQw"
+        },
+        {
+            "id": 8,
+            "nombre": "Rebecca Anne Lovell",
+            "rango": "Rango desconocido",
+            "genero": "Blues-rock",
+            "imagen": "rebecca-lovell.jpg",
+            "banda": "Larkin Poe",
+            "biografia": "<p>Cantante principal y guitarrista de la banda de rock Larkin Poe.<br><br>Es descendiente de Edgar Allan Poe. Su tatarabuelo, cuyo nombre era Larkin Poe, era primo Edgar. Su banda 'Larkin Poe' lleva su nombre.<br><br>Puede tocar la guitarra (eléctrica y acústica), el piano, el violín y la mandolina.</p>",
+            "video": "https://www.youtube.com/embed/JNRgJKMZuNY",
+            "videoB": "https://www.youtube.com/embed/ZXQQEK81BAk"
+        },
+        {
+            "id": 9,
+            "nombre": "Shoshana Cohen",
+            "rango": "Rango desconocido",
+            "genero": "Dream-pop",
+            "imagen": "yael-cohen.jpg",
+            "banda": "Lola Marsh",
+            "biografia": "<p>Vocalista principal de la banda de pop israelí Lola Marsh junto con el músico Gil Landau. Su versión de Something Stupid de Frank Sinatra encabezó un episodio de Better Call Saul.</p>",
+            "video": "https://www.youtube.com/embed/cZnFYkeCpfM",
+            "videoB": "https://www.youtube.com/embed/wggVs0rRqds"
+        },
+        {
+            "id": 10,
+            "nombre": "Sharon Kovacs",
+            "genero": "Pop",
+            "rango": "Rango desconocido",
+            "imagen": "sharon-kovacs.jpg",
+            "banda": "Kovacs",
+            "biografia": "<p>Sharon Kovacs (15 de abril de 1990), conocida profesionalmente como Kovacs, es una cantante neerlandesa de Baarlo.<br><br>Kovacs estudió en Rock City Institute, una escuela vocacional en Eindhoven, Países Bajos. Se graduó en 2013. En 2014 trabajo con el productor Oscar Holleman para grabar su primer EP Mi Amor, el cual era en parte grabado en Cuba. El 1 de junio de 2014, la estación de radio neerlandesa NPO 3FM la nombró 3FM Serious Talent. En 2014, ella tocó en varios festivales entre los cuales North Sea Jazz y Lowlands (festival).  El 2 de octubre, ganó el premio NPO Radio 6 Soul & Jazz de Países Bajos en la categoría 'Mejor talento de soul y jazz'.<br><br>Su primer álbum Shades Of Black fue lanzado el 2 de abril de 2015, después de lo cual comenzó su gira por el club Shades of Black y tocó en varios festivales de Europa, Turquía e Israel.<br><br>El 29 de octubre, se anunció que ella es la cuarta ganadora de un European Border Breakers Award 2016.</p>",
+            "video": "https://www.youtube.com/embed/Zktm4vYtceg",
+            "videoB": "https://www.youtube.com/embed/sJJSzECNtQs"
+        },
+        {
+            "id": 11,
+            "nombre": "Beth Gibbons",
+            "rango": "Contralto",
+            "genero": "Trip-hop",
+            "imagen": "beth-gibbons.jpg",
+            "banda": "Portishead",
+            "biografia": "<p>Beth Gibbons (Exeter, Devon; 4 de enero de 1965), es cantante y compositora del grupo de trip-hop Portishead.<br><br>Criada en una pequeña granja a 20 millas de la ciudad. Durante su infancia, acostumbraba a sentarse en su habitación a leer poemas mientras su padre y hermanos no comprendían su actitud. Para una familia con un padre adventista y tres hijas no había mucho tiempo para la depresión y el calmado trabajo de Sylvia Plath.<br><br>En una de sus primeras entrevistas dijo recordar que en la granja todos tenían mucho trabajo, y no había realmente tiempo para el humor.<br><br>Lejos de odiar la dura labor que hacía en la granja, aceptaba la ardua tarea y los fuertes vínculos familiares. En su adolescencia, cuando la mayor parte de sus amigos salían a divertirse por la ciudad de Exeter en las noches, ella prefería quedarse en su casa con su madre y escuchar discos. Su única distracción además de la música fue un novio que tuvo a la edad de 20 años. Pero después de un tiempo de vida en familia ella decidió abandonar la granja y buscarle otro destino a su vida.<br><br>Quería irse de casa pero le resultaba atemorizante. Finalmente a los 22 años se traslada a la ciudad de Bath, experiencia que según recuerda le abrió los ojos.1​ Más tarde se muda a Bristol donde conoce a su futuro compañero de Portishead, Geoff Barrow, en un curso de capacitación para jóvenes emprendedores en 1991.</p>",
+            "video": "https://www.youtube.com/embed/Vg1jyL3cr60",
+            "videoB": "https://www.youtube.com/embed/TmDkzVvherk"
+        },
+        {
+            "id": 12,
+            "nombre": "Juliana Muñoz",
+            "rango": "Rango desconocido",
+            "genero": "Rap",
+            "imagen": "juliana-muñoz.jpg",
+            "banda": "Solista",
+            "biografia": "<p>Juliana Carolina Muñoz Gonzalez nacida el 12 de julio de 1995 en Maracibo Edo. Zulia conocida como Neblinna Mc. Apasionada por todo tipo de música haciendo preferencia mas en el RAP.<br><br>Comienza su carrera como Mc en el 2008.<br><br>Su primer tema fue grabado en el 2009 ''Rencor Por Falsedad'' un ft. con la agrupación Colisión Filosofik Crew. Gracias a la ayuda de Julio Cesar Muñoz Gonzalez mejor conocido como ''Skpulario' y Jesus Alberto mejor conocido como Jeza' que han estado con ella desde el principio de su carrera hasta ahora han sido unos de los que mas la han apoyado, Tomando en cuenta a Viruz Mc, Rg Mc, Magnatte, Ioe Mc,Bag Mc, Ejr y muchos mas que la han apoyado en todo y ayudado en lo que se puede.<br><br>ha mediados del 2010 fue que comenzó a surgir mas en esta cultura y se mantiene de pie poniéndole corazón a lo que le gusta, no hace rap por faranduleo, no hace rap porque lo vean como moda o porque otros lo hagan, el rap que ella sale de aquí ♥ porque le nace.<br><br>Y Neblinna Mc seguirá dándoles rap del bueno y poniendo en alto a la mujer Venezolana en la cultura.<br><br>Su Juntacion con MESTIZA la llebo mas a la fama ás talento femenino de alto nivel y bien criollo. Mestiza y Neblinna son dos chica que con sus buenas liricas se están dando a conocer. Hoy le traemos un tema para que vayan escuchando lo seguro será una larga carrera muchos temas. Este se llama Contenido y Flow y a descargar se ha dicho.</p>",
+            "video": "https://www.youtube.com/embed/IS6dHCT1w2I",
+            "videoB": "https://www.youtube.com/embed/ugN6mnFfmWA"
+        },
+        {
+            "id": 13,
+            "nombre": "Tarja Turunen",
+            "rango": "Soprano lírica",
+            "genero": "Synphonic-metal",
+            "imagen": "tarja-turunen.jpg",
+            "banda": "Nightwish",
+            "biografia": "<p>Tarja Soile Susanna Turunen Cabuli (Kitee, 17 de agosto de 1977), es una cantante finlandesa con formación clásica, con un registro vocal de soprano lírica obteniendo así una rica sonoridad y peso en toda su tesitura. Inició su formación musical con el piano a los 6 años de edad, luego a la edad de 16 años inició sus clases de canto clásico. Durante 9 años fue la vocalista de la banda de metal sinfónico Nightwish, que en 1996 fundó con sus compañeros Tuomas Holopainen y Emppu Vuorinen. En 2005, fue expulsada de la banda por conflictos con sus miembros, a través de una carta que fue hecha pública por los mismos. Turunen lanzó un álbum extra de Navidad, que solo fue comercializado en Europa, llamado Henkäys ikuisuudesta. En solitario lanzó cinco álbumes de estudio en los que mezcló el rock pesado, el metal sinfónico y la música clásica: My Winter Storm (2007), What Lies Beneath (2010), Colours in the Dark (2013), The Shadow Self (2016) y In the Raw (2019). Su talento y destaque en Nightwish, más su trabajo en solitario, le valieron para ser considerada una de las mejores cantantes del mundo y pionera en su género, al ser la primera cantante clásica en integrar una banda de metal.</p><br><p>En 2007 comenzó su carrera solista con el lanzamiento del álbum My Winter Storm , en septiembre de 2010 lanzó a la venta su tercer álbum de estudio solista, llamado What Lies Beneath, marcando su debut como productora del mismo, labor que continua desempeñando en todos sus álbumes del género rock. En abril de 2012 su primer DVD Act I fue filmado durante esta gira el 30 y 31 de marzo de 2012 en Rosario, Argentina. En agosto de 2013 se publicó su cuarto álbum de estudio solista, titulado Colours in the Dark.</p><br><p>En 2016 sacá a la venta los álbumes The Brightest Void y The Shadow Self, para seguir promocionando el álbum Tarja comenzó el «The Shadow Shows World Tour» con esta gira la cantante regresó a dar conciertos en los Estados Unidos después de 12 años de ausencia en ese país.</p><br><p>El 29 de julio de 2014 Turunen fue anunciada como jurado para la cuarta temporada del popular programa de televisión The Voice of Finland la cual se estrenó el 2 de febrero de 2015 a través de Nelonen, cuya ganadora Miia Kossunen, perteneció al Team Tarja.</p>",
+            "video": "https://www.youtube.com/embed/RYzmAQMsR2c",
+            "videoB": "https://www.youtube.com/embed/CwED4C5FJuo"
+        },
+        {
+            "id": 14,
+            "nombre": "Billie Eilish",
+            "rango": "Soprano",
+            "genero": "Indie-pop",
+            "imagen": "billie-eilish.jpg",
+            "banda": "Solista",
+            "biografia": "<p>Billie Eilish Pirate Baird O'Connell (Los Ángeles, California; 18 de diciembre de 2001) es una cantante y compositora estadounidense. Adquirió fama como artista cuando tenía 13 años, a raíz del sencillo «Ocean Eyes» que se publicó en 2015 en SoundCloud y volvió a lanzarse con un vídeo musical en YouTube en 2016, a la edad de 14 años, lo que la convirtió en un fenómeno viral. En 2017, publicó su EP Don't Smile at Me, producido por su hermano Finneas O'Connell.</p><p>Su primer álbum de estudio, When We All Fall Asleep, Where Do We Go?, se publicó el 29 de marzo de 2019. Según la RIAA, a lo largo de su carrera ha logrado dos canciones con disco de platino: «Ocean Eyes» y «Lovely», esta última con Khalid, y siete sencillos con disco de oro. El álbum se llevó el Grammy al álbum del año y al mejor álbum de pop vocal en los premios de 2020. Asimismo, Eilish ganó el premio a la mejor artista novel y su éxito «Bad Guy» ganó la canción del año y grabación del año.</p>",
+            "video": "https://www.youtube.com/embed/fwC30E1IVKQ",
+            "videoB": "https://www.youtube.com/embed/fzeWc3zh01g"
+        },
+        {
+            "id": 15,
+            "nombre": "Billie Holiday",
+            "rango": "Contralto",
+            "genero": "Jazz/Blues",
+            "imagen": "billie-holiday.jpg",
+            "banda": "Solista",
+            "biografia": "<p>Eleanora Holiday Fagan (Filadelfia, 7 de abril de 1915 - Nueva York, 17 de julio de 1959), más conocida como Billie Holiday y apodada Lady Day, fue una cantante estadounidense de jazz, considerada una de las tres voces femeninas más importantes e influyentes de este género musical, junto con Sarah Vaughan y Ella Fitzgerald.</p><p>El crítico Robert Christgau consideraba que era «inigualable y posiblemente la mejor cantante del siglo». Por otro lado, Frank Sinatra la tomó como «su mayor influencia» e «incuestionablemente la influencia más importante en el canto popular estadounidense de los últimos veinte años». Su tema «Strange Fruit» fue considerado como la mejor canción del siglo XX, por la revista Time en 1999.3 El valor artístico de Billie Holiday reside tanto en su capacidad interpretativa, como en su dominio del swing.</p><p>Asimismo, destacaba por la capacidad de adaptación de sus cualidades vocales al contenido de la canción. Billie Holiday impregnaba sus canciones con una intensidad inigualable que, en numerosos casos, era fruto del traspaso de sus propias vivencias a las letras que cantaba. Este tono tan personal que la caracterizaba hace que su estilo esté muy vinculado a intérpretes clásicos de blues como Bessie Smith o Ma Rainey (en su autobiografía dejó escrito: «Siempre quise el gran sonido de Bessie y el sentimiento de Pops»); aunque también está clara la deuda, confirmada por ella misma, con Louis Armstrong, y, desde luego, con quien sería su principal acompañante: el saxofonista tenor y clarinetista Lester Young.</p>",
+            "video": "https://www.youtube.com/embed/-DGY9HvChXk",
+            "videoB": "https://www.youtube.com/embed/y4bZu56EylA"
+        },
+        {
+            "id": 16,
+            "nombre": "Emily Haines",
+            "rango": "Soprano",
+            "genero": "Indie-rock",
+            "imagen": "emily-haines.jpg",
+            "banda": "Metric",
+            "biografia": "<p>Emily Savitri Haines (n. 25 de enero de 1974) es una compositora y cantante de rock canadiense nacida en la India. Es la vocalista líder del grupo musical Metric y miembro de Broken Social Scene. Como artista en solitario, ha trabajado bajo el nombre de Emily Haines & The Soft Skeleton.</p><p>Haines conoció al guitarrista James Shaw en Toronto en 1997 y comenzaron a hacer música juntos. Inicialmente el dúo se llamó \"Mainstream\". Después de publicar el EP \"Maisntream EP\" cambiaron el nombre de la banda a \"Metric\". Más tarde, en 2001, se unirían a la banda el bajista Joshua Winstead y el baterista Joules Scott-Key.</p><p>Actualmente, como líder de la banda, ha publicado siete álbumes de estudio: Old World Underground, Where Are You Now? (2003), Live It Out (2005), Grow Up and Blow Away (2007), Fantasies (2009), Synthetica (2012), Pagans in Vegas (2015) y Art of Doubt (2018).</p><p>Como artista en solitario ha publicado bajo el nombre de \"Emily Haines & The Soft Skeleton\" un álbum de estudio y un EP: Knives Don't Have Your Back (2006) y What Is Free to a Good Home? (2007), inspirados por la muerte de su padre. En 2017 publicó Choir of the Mind.</p>",
+            "video": "https://www.youtube.com/embed/jvEoYsNQ44Y",
+            "videoB": "https://www.youtube.com/embed/uly3S2KjUf4"
+        },
+        {
+            "id": 17,
+            "nombre": "Simone Simons",
+            "rango": "Soprano",
+            "genero": "Synphonic-metal",
+            "imagen": "simone-simons.jpg",
+            "banda": "Epica",
+            "biografia": "<p>Simone Johanna Maria Simons (Heerlen, Limburgo, Países Bajos, 17 de enero de 1985) conocida artísticamente como Simone Simons, es una cantante, compositora, empresaria, modelo, influencer y bloguera neerlandesa.</p><p>Es la voz principal de la banda neerlandesa de metal sinfónico Epica, a la cual ingresó en el año 2002 con tan solo 17 años de edad, a partir de allí ha lanzado con la agrupación ocho álbumes de estudio y ha realizado giras mundiales. Además en su carrera como cantante ha colaborado con bandas como Primal Fear, Angra, Leaves' Eyes, MaYaN y Kamelot con la cual no solo participó en muchos de sus álbumes sino que también acompañó a la banda en una gira en 2011, su marido Oliver Palotai es el teclista de la banda kamelot. También ha compartido escenario con cantantes como Cristina Scabbia, Floor Jansen, Fabio Lione, Tommy Karevik, entre otros.</p><p>En 2016 la revista estadounidense Revolver posicionó a Simone en el puesto No.11 de las mujeres más sexys del Hard Rock y Heavy Metal.</p>",
+            "video": "https://www.youtube.com/embed/1ZZis7maDDQ",
+            "videoB": "https://www.youtube.com/embed/dNoTvg0t52c"
+        },
+        {
+            "id": 18,
+            "nombre": "Rosalia",
+            "rango": "Soprano",
+            "genero": "Pop-latino/Nuevo-flamenco",
+            "imagen": "rosalia.jpg",
+            "banda": "Solista",
+            "biografia": "<p>Rosalía nació el 25 de septiembre de 1992 en el Hospital General de Catalunya en San Cugat del Vallés y se crio en San Esteban de Sasroviras. Es la segunda hija del matrimonio formado por José Manuel Vila y Pilar Tobella. Su hermana mayor, Pilar, actualmente trabaja con ella como su estilista.</p><p>En 2013 trabajó a dúo con Juan Gómez \"Chicuelo\" en el Festival Internacional de Cine de Panamá y en el Festival Grec de Barcelona para la obra de baile contemporáneo De Carmen. Ese mismo año participó en el Association of Performing Arts Professionals (APAP) Conference en Nueva York y, posteriormente, fue la voz solista en la obra de culminación del Año Espriu 2014 en el Palacio de la Música.</p><p>En 2015, colaboró con La Fura dels Baus en un espectáculo estrenado en Singapur. Asimismo, fue telonera de Miguel Poveda, acompañada por Alfredo Lagos, en el Festival Internacional de Música de Cadaqués y trabajó con Rocío Márquez en la presentación de su disco El niño en el festival Primavera Sound.</p><p>En 2016, acompañada del rapero madrileño C. Tangana, junto con el productor Alizzz, incursionó en el género urbano con los temas «Llámame más tarde» y «Antes de morirme».</p>",
+            "video": "https://www.youtube.com/embed/32d1bq-kG5c",
+            "videoB": "https://www.youtube.com/embed/NfDEEyg3AdA"
+        },
+        {
+            "id": 19,
+            "nombre": "Amy Winehouse",
+            "rango": "Contralto",
+            "genero": "Jazz/R&B/Soul",
+            "imagen": "amy-winehouse.jpg",
+            "banda": "Solista",
+            "biografia": "<p>Amy Jade Winehouse (Londres, 14 de septiembre de 1983-ibidem, 23 de julio de 2011) fue una cantante y compositora británica, conocida por interpretar diversos géneros musicales, entre los que destacan el jazz, el rhythm and blues, el soul, el ska. Asimismo, se la conoce por ser contralto, registro vocal que fue descrito como «acústicamente poderoso» y capaz de expresar «sus emociones profundamente».<br><br>En 2003 lanzó su álbum debut Frank, que fue un éxito comercial en su país natal, y llegó a ser nominado a los Premios Mercury. Su segundo álbum de estudio, Back to Black, fue publicado en 2006. Por este disco la cantante consiguió seis nominaciones a los Premios Grammy, de las cuales ganó cinco: Canción del año, Grabación del año y Mejor artista nueva, entre otras. Este hecho la condujo a igualar el récord de galardones obtenidos en una noche por un artista —logrado antes por Lauryn Hill, Norah Jones, Alicia Keys y Beyoncé—, además de ser la primera artista británica ganadora de cinco Grammys en una noche. La popularidad alcanzada acaparó la atención de los medios, que comenzaron a interesarse e inmiscuirse en su agitada vida personal.</p>",
+            "video": "https://www.youtube.com/embed/Z3JVWD5ipek",
+            "videoB": "https://www.youtube.com/embed/TJAfLE39ZZ8"
+        },
+        {
+            "id": 20,
+            "nombre": "Christina Rosenvinge",
+            "rango": "Rango desconocido",
+            "genero": "Indie-rock-pop",
+            "imagen": "Christina-Rosenvinge.jpg",
+            "banda": "Solista",
+            "biografia": "<p>Christina Rosenvinge nació en Madrid el 29 de mayo de 1964, de padres daneses (Hans Jørgen Christian Rosenvinge, fallecido en 1991, y Daphne Ankerstjerne Hepworth, mitad de ascendencia británica) emigrados a España en los años cincuenta. Vinculada a la música desde la adolescencia, posee una de las carreras más singulares en la música pop española. Exintegrante de Ella y Los Neumáticos, Magia Blanca, Álex & Christina y Christina y Los Subterráneos, ha pasado del éxito comercial que obtuvo a finales de los ochenta y principios de los noventa a facturar un estilo confesional y arriesgado que la sitúa como una figura de referencia en el pop de autor actual.</p><p>Debutó como cantante en Ella y Los Neumáticos, grupo punk que formó parte de la movida madrileña a principios de los 80. Posteriormente, junto a Toti Árboles (también de Ella y Los Neumáticos) y Álex de la Nuez (que había pasado por Zombies) forman Magia Blanca, un combo de electropop con toques funk que solo sacaría un Maxi-EP de 3 canciones.1​ Árboles pronto se separó de Magia Blanca con lo que Rosenvinge y De La Nuez deciden cambiar el nombre artístico a Álex & Christina, pasando a hacer un pop naïf de influencia francesa del que Christina era compositora junto a Álex. Tuvieron una repercusión enorme con el segundo sencillo Chas y aparezco a tu lado producido por Nacho Cano, lo que les permitió grabar dos álbumes de gran éxito de público y repercusión mediática antes de separarse a principios de la década de los 90.</p>",
+            "video": "https://www.youtube.com/embed/HWnzykWSPAM",
+            "videoB": "https://www.youtube.com/embed/_j04h6owgz4"
+        }
+    ]
+}
+
