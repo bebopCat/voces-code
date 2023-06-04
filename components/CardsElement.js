@@ -12,7 +12,7 @@ export class CardsElement extends LitElement {
             position: relative;
             height: 450px;
             background: lightgray;
-            width: 100%
+            width: 100%;
         }
         .movible {
             display: inline-block;
@@ -38,13 +38,13 @@ export class CardsElement extends LitElement {
             width: 100%;
             height: 100%;
             box-sizing: border-box;
-            border: 10px solid rgba(119, 136, 153,0);
+            border: 2px solid rgba(119, 136, 153,0);
             z-index: 1001;
             transition: all .5s ease-in-out;
             cursor: pointer;
         }
         .sombra:hover .bordes {
-            border: 10px solid rgba(47, 79, 79,0.3);
+            border: 10px solid rgba(255, 215, 0, .3);
         }
         .img {
             position: absolute;
@@ -64,14 +64,14 @@ export class CardsElement extends LitElement {
             padding-left: 25px;
             box-sizing: border-box;
             top: 61%;
-            color: #ffffff;
+            color: #1f2124;
             width: 100%;
             right: -100%;
             transition: all .5s ease-in-out;
             z-index: 1002;
         }
         .sombra:hover .titulo {
-            background-color: teal;
+            background-color: gold;
             right: 0;
         }
         .subtitulo {
@@ -84,14 +84,14 @@ export class CardsElement extends LitElement {
             padding-right: 25px;
             box-sizing: border-box;
             top: 69%;
-            color: #ffffff;
+            color: #1f2124;
             width: 100%;
             right: 100%;
             transition: all .5s ease-in-out;
             z-index: 1002;
         }
         .sombra:hover .subtitulo {
-            background-color: lightseagreen;
+            background-color: yellow;
             right: 0;
         }
         button {
@@ -143,7 +143,6 @@ export class CardsElement extends LitElement {
         window.addEventListener('resize', () => {
             
             if(this.active) {
-
                 // Ejecuta click en el backButton para renderizar depues de un cambio
                 // de orientación de dispositivo en caso de estar algúna tarjeta activa.
                 let $buttonHover = this.renderRoot.querySelector('.backButton');
@@ -165,10 +164,10 @@ export class CardsElement extends LitElement {
         // Se bindean datos hacia los componentes <video-container> e <info-container>.
         return html`
             <div class="movible" style=${this.styles.movible}>
-                <div class="sombra" style=${this.styles.sombra}>
+                <div class="sombra" style=${this.styles.sombra} id="${this.data.id}">
                     <div class="bordes" style=${this.styles.bordes}></div>
                     <div class="titulo" style=${this.styles.titulo}>${this.data.nombre}</div>
-                    <div class="subtitulo" style=${this.styles.subtitulo}>${this.data.rango}</div>
+                    <div class="subtitulo" style=${this.styles.subtitulo}>${this.data.genero}</div>
                     <button class="backButton" style=${this.styles.backButton}>
                         <img src="./assets/images/backArrow.svg">
                     </button>
@@ -181,10 +180,6 @@ export class CardsElement extends LitElement {
     }
 
     move(e) {
-
-        console.log(`innerWidth ${innerWidth}`)
-            console.log(`outherWidth ${outerWidth}`)
-            console.log(window)
         if (e.target.matches('.bordes') && this.active === false) {
             // Cambia la propiedad newStylesActive a true.
             this.changeNewStylesActive();
@@ -199,8 +194,8 @@ export class CardsElement extends LitElement {
 
             // Maneja el hover del botón.
             let $buttonHover = this.renderRoot.querySelector('.backButton');
-                $buttonHover.onmouseover = () => $buttonHover.style.setProperty('background-color','royalblue');
-                $buttonHover.onmouseout = () => $buttonHover.style.setProperty('background-color', 'teal');
+                $buttonHover.onmouseover = () => $buttonHover.style.setProperty('background-color','yellow');
+                $buttonHover.onmouseout = () => $buttonHover.style.setProperty('background-color', 'gold');
             
             // envia el estado true de this.active para activar un elemento
             // de bloqueo en la pantalla para evitar el click.
@@ -232,7 +227,7 @@ export class CardsElement extends LitElement {
             // Habilita scroll
             document.getElementsByTagName("html")[0].style.overflow = "auto";
 
-            // Se crea y diuspara el evento 'bloqueo' para enviar el estado
+            // Se crea y dispara el evento 'bloqueo' para enviar el estado
             // de la propiedad active que generara un elemento de bloqueo
             // en la pantalla para evitar el click.
             this.dispatchEvent(new CustomEvent('bloqueo', {

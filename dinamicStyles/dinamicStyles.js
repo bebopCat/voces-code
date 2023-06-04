@@ -6,7 +6,7 @@ export function getMapStyles(element, media, neWStylesActive, boundingMovible, s
     
     if(element === 'titulo' && media > tabletBreakpoint) {
         const titleStyles = {
-            backgroundColor: neWStylesActive ? 'teal' : null,
+            backgroundColor: neWStylesActive ? 'gold' : null,
             right: neWStylesActive ? '0' : null,
             top: neWStylesActive ? '91%' : null,
             fontSize: neWStylesActive ? '2vw' : null,
@@ -30,15 +30,14 @@ export function getMapStyles(element, media, neWStylesActive, boundingMovible, s
     }
     if(element === 'titulo' && media < movilBreakpoint) {
         const titleStyles = {
-            backgroundColor: 'transparent',
-            left: neWStylesActive ? '10%' : '0',
-            top: neWStylesActive ? '35%' : '84%',
-            fontSize: neWStylesActive ? '7vw' : '5vw',
+            backgroundColor: neWStylesActive ? 'transparent' : '#1f2124',
+            top: neWStylesActive ? '35%' : '83%',
+            fontSize: neWStylesActive ? '7vw' : '7vw',
             textAlign: 'center',
-            padding: '0',
-            color: neWStylesActive ? 'yellow' : 'white',
+            padding: '5px 0 0 0',
+            color:  'gold',
             fontFamily: neWStylesActive ? 'openSansBold' : 'openSansMedium',
-            transform: neWStylesActive ? 'rotate(10deg)' : 'rotate(0deg)'
+            transition: 'all 1s ease-in-out'
         }
         return titleStyles;
     }
@@ -47,7 +46,7 @@ export function getMapStyles(element, media, neWStylesActive, boundingMovible, s
 
     if(element === 'subtitulo' && media > tabletBreakpoint) {
         const subtitleStyles = {
-            backgroundColor: neWStylesActive ? 'lightseagreen' : null,
+            backgroundColor: neWStylesActive ? 'gold' : null,
             right: neWStylesActive ? '0' : null,
             top: neWStylesActive ? '95%' : null,
             visibility: neWStylesActive ? 'hidden' : null,
@@ -70,15 +69,16 @@ export function getMapStyles(element, media, neWStylesActive, boundingMovible, s
         return subtitleStyles;
     }
     if(element === 'subtitulo' && media < movilBreakpoint) {
+
         const subtitleStyles = {
-            backgroundColor: 'transparent',
-            right: '0',
+            backgroundColor: '#1f2124',
             top: '90%',
-            fontSize: '2vw',
+            fontSize: '5vw',
             textAlign: 'center',
-            padding: '0',
-            color: 'white',
-            visibility: neWStylesActive ? 'hidden' : 'visible'
+            padding: '0 0 5px 0',
+            color: 'yellow',
+            visibility: neWStylesActive ? 'hidden' : 'visible',
+            transition: 'all 1s ease-in-out'
         }
         return subtitleStyles;
     }
@@ -87,7 +87,8 @@ export function getMapStyles(element, media, neWStylesActive, boundingMovible, s
 
     if(element === 'img' && media < movilBreakpoint) {
         const imgStyles = {
-            filter: neWStylesActive ? 'grayscale(100%)' : 'grayscale(0%)'
+            filter: neWStylesActive ? 'grayscale(100%) brightness(50%)' : 'grayscale(0%) brightness(100%)',
+            // filter: neWStylesActive ? 'brightness(50%)' : 'brightness(100%)'
         }
         return imgStyles;
     }
@@ -108,15 +109,21 @@ export function getMapStyles(element, media, neWStylesActive, boundingMovible, s
     }
     if(element === 'sombra' && media < movilBreakpoint) {
 
+
         let intersectionElement = shadowElement;
 
         function deleteShadow(entries) {
 
-            entries.forEach(entry => {
+            entries.forEach((entry, i) => {
                 if (entry.isIntersecting) {
                     innerWidth < movilBreakpoint ? entry.target.style.setProperty('background-color','rgba(19,30,33, 0)') : null;
+                    entry.target.querySelector('.titulo').style.right = "0px";
+                    entry.target.querySelector('.subtitulo').style.right = "0px";
                 } else {
                     innerWidth < movilBreakpoint ? entry.target.style.setProperty('background-color','rgba(19,30,33, 0.5)') : null;
+                    entry.target.querySelector('.titulo').style.right = "-100%";
+                    entry.target.querySelector('.subtitulo').style.right = "100%";
+
                 }
             });
         }
@@ -167,7 +174,7 @@ export function getMapStyles(element, media, neWStylesActive, boundingMovible, s
             top: neWStylesActive ? '10px' : '10px',
             left: neWStylesActive ? '10px' : '10px',
             borderRadius: neWStylesActive ? '50%' : null,
-            backgroundColor: neWStylesActive ? 'teal' : null,
+            backgroundColor: neWStylesActive ? 'gold' : null,
 
         }
         return buttonStyles;
@@ -176,10 +183,10 @@ export function getMapStyles(element, media, neWStylesActive, boundingMovible, s
 
         const buttonStyles = {
             zIndex: neWStylesActive ? '1100' : 'null',
-            opacity: neWStylesActive ? '1' : '0',
+            opacity: neWStylesActive ? '.5' : '0',
             left: neWStylesActive ? '10px' : null,
             bottom: neWStylesActive ? '12px' : null,
-            backgroundColor: neWStylesActive ? 'yellow' : null,
+            backgroundColor: neWStylesActive ? 'gold' : null,
             color: neWStylesActive ? 'white' : null,
             fontSize: neWStylesActive ? '0.5rem' : null,
             borderRadius: neWStylesActive ? '50%' : null,

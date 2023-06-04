@@ -32,9 +32,9 @@ export class VideoContainer extends LitElement {
         iframe {
         }
         p {
-            color: white;
+            color: #1f2124;
             font-family: openSansMedium;
-            font-size: 2rem;
+            font-size: 1rem;
         }
     `;
 
@@ -58,7 +58,7 @@ export class VideoContainer extends LitElement {
         <div class="load-block">
             <img src="../assets/images/loader-puff.svg">
         </div>
-        <p>En estudio:</p>
+        <p>En estudio</p>
         <iframe
             @load=${this.iframeLoaded}
             loading="lazy" 
@@ -68,7 +68,7 @@ export class VideoContainer extends LitElement {
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         ></iframe>
-        <p>Su vóz:</p>
+        <p>En vivo</p>
         <iframe
             loading="lazy" 
             width="100%" height="315" 
@@ -114,7 +114,7 @@ export class VideoContainer extends LitElement {
                 setTimeout(() => {
                     // Traslada <video-container> una vez su tamaño hacia la derecha.
                     this.style.transform = `translate(0px, 15vh)`;
-                    this.style.height = `50vh`;
+                    this.style.height = `45vh`;
                 }, 500);
                 // La pantalla tiene menos de 720px de ancho
             }

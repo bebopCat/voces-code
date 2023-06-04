@@ -10,7 +10,7 @@ export class TopeComponent extends LitElement {
 
     render() {
         const styles = { 
-            height: window.matchMedia("(min-width: 600px)").matches ? '96px' : '50px',
+            height: window.matchMedia("(min-width: 600px)").matches ? '10vh' : '50px',
         }
         return html`
             <div class="tope" style=${styleMap(styles)}></div>

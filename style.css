@@ -14,11 +14,16 @@
     font-family: "LouisGeorgeCafe-Medium";
     src: url("/assets/fonts/LouisGeorgeCafe-Medium.ttf");
 }
+@font-face{
+    font-family: "Providence";
+    src: url("/assets/fonts/providence.ttf");
+}
 
 * {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 .container {

@@ -2,6 +2,7 @@ import {LitElement, html, css} from 'lit';
 import { map } from 'lit/directives/map.js';
 import {styleMap} from 'lit/directives/style-map.js';
 import './CardsElement.js';
+import './menu-item.js';
 
 export class CardsContainer extends LitElement {
 
@@ -13,6 +14,7 @@ export class CardsContainer extends LitElement {
             height: 100%;
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            scroll-behavior: smooth;
         }
         .bloqueo {
             position: fixed;
@@ -68,7 +70,7 @@ export class CardsContainer extends LitElement {
         // map mapea los datos generando un html por cada uno y enviando al componente cards-element los datos.
         return html`
             <div class="bloqueo" style=${styleMap(bloqueoStyles)}></div>
-            ${map(this.content, (item) => html`<cards-element .data="${item}"></cards-element>`)}
+            ${map(this.content, (item, i) => html`<cards-element .data="${item}" id="${i}"></cards-element>`)}
         `;
     }
 }
